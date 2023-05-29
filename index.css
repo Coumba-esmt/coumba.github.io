@@ -1,0 +1,28 @@
+li{
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+div[id="menu"]{
+    background-color: azure;
+    color: brown;
+}
+html{
+    background-color: dimgray;
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+h2{
+    text-align: center;
+    color: aquamarine;
+}
+h3{
+    text-align: center;
+    color: aquamarine;
+}
+li :hover{
+    background-color: azure;
+    color: black;
+}
